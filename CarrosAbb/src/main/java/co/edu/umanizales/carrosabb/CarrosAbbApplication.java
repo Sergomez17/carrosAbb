@@ -1,0 +1,13 @@
+package co.edu.umanizales.carrosabb;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CarrosAbbApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(CarrosAbbApplication.class, args);
+    }
+
+}
